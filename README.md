@@ -1,9 +1,5 @@
-Projet n°6
-----------
+<h2>Projet n°6 - Optimisez la gestion & nettoyez les données du stock d’une boutique</h2>
 
-<h2>Optimisez la gestion & nettoyez les données du stock d’une boutique</h2>
-
----------------------
 
 - Effectuer des analyses univariées et multivariées des données pré-traitées
 - Explorer et analyser des données en utilisant des langages et outils métiers
