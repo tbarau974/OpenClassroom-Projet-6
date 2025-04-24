@@ -1,7 +1,7 @@
 Projet n°6
 ----------
 
-Optimisez la gestion & nettoyez les données du stock d’une boutique
+<h2>Optimisez la gestion & nettoyez les données du stock d’une boutique</h2>
 
 ---------------------
 
